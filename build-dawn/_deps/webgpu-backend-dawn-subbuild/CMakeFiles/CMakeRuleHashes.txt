@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+144ed4ea37cfb639eab9c19216e50632 CMakeFiles/webgpu-backend-dawn-populate
+976854475a08786e83398a49f86d9202 CMakeFiles/webgpu-backend-dawn-populate-complete
+50841b8c8f780c745459f8da02fd107b webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-build
+f7938569a425a77eb2ff0900f1f291a4 webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-configure
+aa41aee8c58db825a28243e13a380e16 webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-download
+470f3ed03f6c98a392f6328f08cada48 webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-install
+7151bbc0cc39c60d8b6a45e69e12d25e webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-mkdir
+9d5856dc61805f4197782b8159bad203 webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-patch
+748e35e25954ee91f1c9dd0d15e76bd9 webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-test
+b51e2a32a3ea727a1bec08ca564f7bde webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-update

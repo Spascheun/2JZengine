@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_generator.a CMakeFiles/tint_utils_generator.dir/utils/generator/text_generator.cc.o
+/usr/bin/ranlib libtint_utils_generator.a

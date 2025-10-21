@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/tint_cmd_remote_compile_cmd.dir/cmd/remote_compile/main.cc.o -o ../../tint_remote_compile  libtint_utils_macros.a libtint_utils_socket.a libtint_utils_macros.a 

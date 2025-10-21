@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_socket.a CMakeFiles/tint_utils_socket.dir/utils/socket/socket.cc.o
+/usr/bin/ranlib libtint_utils_socket.a

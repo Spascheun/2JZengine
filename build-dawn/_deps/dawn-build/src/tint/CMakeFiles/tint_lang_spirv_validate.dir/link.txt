@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_spirv_validate.a CMakeFiles/tint_lang_spirv_validate.dir/lang/spirv/validate/validate.cc.o
+/usr/bin/ranlib libtint_lang_spirv_validate.a

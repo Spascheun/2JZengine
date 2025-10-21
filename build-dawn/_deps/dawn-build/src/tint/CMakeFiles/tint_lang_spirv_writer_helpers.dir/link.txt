@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_spirv_writer_helpers.a CMakeFiles/tint_lang_spirv_writer_helpers.dir/lang/spirv/writer/helpers/ast_generate_bindings.cc.o CMakeFiles/tint_lang_spirv_writer_helpers.dir/lang/spirv/writer/helpers/generate_bindings.cc.o
+/usr/bin/ranlib libtint_lang_spirv_writer_helpers.a

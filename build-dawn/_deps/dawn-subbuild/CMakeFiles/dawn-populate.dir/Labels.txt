@@ -1,0 +1,14 @@
+# Target labels
+ dawn-populate
+# Source files and their labels
+/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/CMakeFiles/dawn-populate
+/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/CMakeFiles/dawn-populate.rule
+/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/CMakeFiles/dawn-populate-complete.rule
+/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-build.rule
+/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-configure.rule
+/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-download.rule
+/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-install.rule
+/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-mkdir.rule
+/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-patch.rule
+/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-test.rule
+/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-update.rule

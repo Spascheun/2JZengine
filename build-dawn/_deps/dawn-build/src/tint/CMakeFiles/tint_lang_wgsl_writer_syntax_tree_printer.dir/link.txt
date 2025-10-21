@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_wgsl_writer_syntax_tree_printer.a CMakeFiles/tint_lang_wgsl_writer_syntax_tree_printer.dir/lang/wgsl/writer/syntax_tree_printer/syntax_tree_printer.cc.o
+/usr/bin/ranlib libtint_lang_wgsl_writer_syntax_tree_printer.a

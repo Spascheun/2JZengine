@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/CMakeFiles/dawn-populate"
+		},
+		{
+			"file" : "/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/CMakeFiles/dawn-populate.rule"
+		},
+		{
+			"file" : "/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/CMakeFiles/dawn-populate-complete.rule"
+		},
+		{
+			"file" : "/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-build.rule"
+		},
+		{
+			"file" : "/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-configure.rule"
+		},
+		{
+			"file" : "/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-download.rule"
+		},
+		{
+			"file" : "/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-install.rule"
+		},
+		{
+			"file" : "/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-mkdir.rule"
+		},
+		{
+			"file" : "/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-patch.rule"
+		},
+		{
+			"file" : "/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-test.rule"
+		},
+		{
+			"file" : "/workspaces/2JZengine/build-dawn/_deps/dawn-subbuild/dawn-populate-prefix/src/dawn-populate-stamp/dawn-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dawn-populate"
+		],
+		"name" : "dawn-populate"
+	}
+}

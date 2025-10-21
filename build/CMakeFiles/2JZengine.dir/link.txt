@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/2JZengine.dir/main.o -o 2JZengine   -L/workspaces/2JZengine/build/_deps/webgpu-backend-wgpu-src/bin/linux-x86_64  -Wl,-rpath,/workspaces/2JZengine/build/_deps/webgpu-backend-wgpu-src/bin/linux-x86_64 -lwgpu_native 

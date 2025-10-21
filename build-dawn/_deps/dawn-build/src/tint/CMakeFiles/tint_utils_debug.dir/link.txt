@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_debug.a CMakeFiles/tint_utils_debug.dir/utils/debug/debugger.cc.o
+/usr/bin/ranlib libtint_utils_debug.a

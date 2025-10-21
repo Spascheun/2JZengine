@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_wgsl_features.a CMakeFiles/tint_lang_wgsl_features.dir/lang/wgsl/features/language_feature.cc.o CMakeFiles/tint_lang_wgsl_features.dir/lang/wgsl/features/status.cc.o
+/usr/bin/ranlib libtint_lang_wgsl_features.a

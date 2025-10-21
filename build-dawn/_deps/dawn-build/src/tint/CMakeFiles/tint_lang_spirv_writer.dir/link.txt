@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_spirv_writer.a CMakeFiles/tint_lang_spirv_writer.dir/lang/spirv/writer/output.cc.o CMakeFiles/tint_lang_spirv_writer.dir/lang/spirv/writer/writer.cc.o
+/usr/bin/ranlib libtint_lang_spirv_writer.a

@@ -1,0 +1,5 @@
+project(2JZengine)
+add_subdirectory(webgpu)
+add_executable(2JZengine main.cpp)
+target_link_libraries(2JZengine PRIVATE webgpu)
+target_copy_webgpu_binaries(2JZengine)

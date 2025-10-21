@@ -1,0 +1,14 @@
+# Target labels
+ webgpu-backend-dawn-populate
+# Source files and their labels
+/workspaces/2JZengine/build-dawn/_deps/webgpu-backend-dawn-subbuild/CMakeFiles/webgpu-backend-dawn-populate
+/workspaces/2JZengine/build-dawn/_deps/webgpu-backend-dawn-subbuild/CMakeFiles/webgpu-backend-dawn-populate.rule
+/workspaces/2JZengine/build-dawn/_deps/webgpu-backend-dawn-subbuild/CMakeFiles/webgpu-backend-dawn-populate-complete.rule
+/workspaces/2JZengine/build-dawn/_deps/webgpu-backend-dawn-subbuild/webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-build.rule
+/workspaces/2JZengine/build-dawn/_deps/webgpu-backend-dawn-subbuild/webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-configure.rule
+/workspaces/2JZengine/build-dawn/_deps/webgpu-backend-dawn-subbuild/webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-download.rule
+/workspaces/2JZengine/build-dawn/_deps/webgpu-backend-dawn-subbuild/webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-install.rule
+/workspaces/2JZengine/build-dawn/_deps/webgpu-backend-dawn-subbuild/webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-mkdir.rule
+/workspaces/2JZengine/build-dawn/_deps/webgpu-backend-dawn-subbuild/webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-patch.rule
+/workspaces/2JZengine/build-dawn/_deps/webgpu-backend-dawn-subbuild/webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-test.rule
+/workspaces/2JZengine/build-dawn/_deps/webgpu-backend-dawn-subbuild/webgpu-backend-dawn-populate-prefix/src/webgpu-backend-dawn-populate-stamp/webgpu-backend-dawn-populate-update.rule

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_wgsl_common.a CMakeFiles/tint_lang_wgsl_common.dir/lang/wgsl/common/common.cc.o
+/usr/bin/ranlib libtint_lang_wgsl_common.a

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/2JZengine/build",
+  "command": "/usr/bin/g++ -DWEBGPU_BACKEND_WGPU -isystem /workspaces/2JZengine/build/_deps/webgpu-backend-wgpu-src/include -g -o CMakeFiles/2JZengine.dir/main.o -c /workspaces/2JZengine/main.cpp",
+  "file": "/workspaces/2JZengine/main.cpp",
+  "output": "CMakeFiles/2JZengine.dir/main.o"
+}
+]

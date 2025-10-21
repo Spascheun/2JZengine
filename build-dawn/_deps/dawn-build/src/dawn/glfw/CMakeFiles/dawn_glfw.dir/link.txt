@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdawn_glfw.a CMakeFiles/dawn_glfw.dir/utils.cpp.o
+/usr/bin/ranlib libdawn_glfw.a

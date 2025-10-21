@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_traits.a CMakeFiles/tint_utils_traits.dir/utils/traits/traits.cc.o
+/usr/bin/ranlib libtint_utils_traits.a
